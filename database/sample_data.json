@@ -1,0 +1,16 @@
+{
+  "users": [
+    { "name": "Sahana", "email": "sahana@example.com", "role": "admin" },
+    { "name": "Kiran", "email": "kiran@example.com", "role": "student" }
+  ],
+  "events": [
+    {
+      "title": "Hackathon 2025",
+      "description": "Tech event for innovators",
+      "date": "2025-09-05",
+      "category": "Competition",
+      "imageUrl": "https://example.com/hackathon.jpg",
+      "createdBy": "Sahana"
+    }
+  ]
+}
